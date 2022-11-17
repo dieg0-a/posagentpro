@@ -98,7 +98,7 @@ Just set up your server as such, use IP 127.0.0.1 if you're going to run PosAgen
 
 **Downloads**
 
-Windows 10/11 X64 Installer: ![Windowsx64] (/assets/releases/Install POSAgentPRO.exe)
+Windows 10/11 X64 Installer: ![Windowsx64](/assets/releases/Install POSAgentPRO.exe)
 
 
 **Contact**

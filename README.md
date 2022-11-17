@@ -88,3 +88,16 @@ Adjust the width in pixels to match that of your printer, typically 80mm printer
 You can also enable or disable paper cutter and cash drawer.
 Finally there's a setting for adding a set amount of lines at the end of the print job, useful for getting the paper to roll to the cut position.
 
+**Setting up Odoo**
+
+Just set up your server as such, use IP 127.0.0.1 if you're going to run PosAgent PRO from the same computer as the browser (most likely scenario) and use the same port you chose in network settings
+
+![Odoo POS Configuration 1](/assets/images/odoo1.png)
+![Odoo POS Configuration 2](/assets/images/odoo1.png)
+
+
+**Contact**
+
+diegoandino@gmail.com
+
+Copyright © 2022 All rights reserved.

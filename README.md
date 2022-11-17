@@ -59,6 +59,25 @@ official solution and other competing approaches.
 
 You can print one receipt normally then it'll print diagonal stripes on it, with the Legend "DEMO" on them.
 
+**Features**
+
+Very fast and lightweight, made in native C++
+
+Very easy to set up, you only need to configure it once and it'll remember your settings and printer
+
+Silent, unintrusive, can run and start in the system tray
+
+Demo mode, you can test it in an unmodified Community Edition Odoo server
+
 **Basic Usage for Windows**
 
+
+![The General Settings Page](/assets/images/windows2.png)
+
 ![The Printer Settings Page](/assets/images/windows1.png)
+
+In this screen you can configure your printer, select their printer in the "Name" dropdown menu and click Set
+Adjust the width in pixels to match that of your printer, typically 80mm pixels are 576 pixels wide and 58mm printers are 384 pixels wide.
+You can also enable or disable paper cutter and cash drawer.
+Finally there's a setting for adding a set amount of lines at the end of the print job, useful for getting the paper to roll to the cut position.
+

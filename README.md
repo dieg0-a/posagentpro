@@ -24,7 +24,7 @@ Thermal ESC/POS Printers (Windows printer driver) mainly USB printers
 
 Cash Drawers
 
-**What is currently not supported but might be supported be very soon**
+**What is currently not supported but might be supported very soon**
 
 STAR Printers
 

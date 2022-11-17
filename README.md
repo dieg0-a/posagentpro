@@ -61,4 +61,4 @@ You can print one receipt normally then it'll print diagonal stripes on it, with
 
 **Basic Usage for Windows**
 
-![The Printer Settings Page](/assets/windows1.png)
+![The Printer Settings Page](/assets/images/windows1.png)

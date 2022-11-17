@@ -71,13 +71,20 @@ Demo mode, you can test it in an unmodified Community Edition Odoo server
 
 **Basic Usage for Windows**
 
+**General Settings Tab**
 
 ![The General Settings Page](/assets/images/windows2.png)
+
+From this tab you can adjust the network proxy port, be sure it matches the setting in Odoo, if you change it click Restart Network for it to take effect
+You can also enable start minimized (run in the system tray) mode.
+
+**The Printer Settings Page**
 
 ![The Printer Settings Page](/assets/images/windows1.png)
 
 In this screen you can configure your printer, select their printer in the "Name" dropdown menu and click Set
-Adjust the width in pixels to match that of your printer, typically 80mm pixels are 576 pixels wide and 58mm printers are 384 pixels wide.
+
+Adjust the width in pixels to match that of your printer, typically 80mm printers are 576 pixels wide and 58mm printers are 384 pixels wide.
 You can also enable or disable paper cutter and cash drawer.
 Finally there's a setting for adding a set amount of lines at the end of the print job, useful for getting the paper to roll to the cut position.
 

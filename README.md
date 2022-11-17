@@ -19,17 +19,25 @@ is planned (Scales, and, based on demand, Customer facing screens).
 **What is Currently supported**
 
 Windows 10/11
+
 Thermal ESC/POS Printers (Windows printer driver) mainly USB printers
+
 Cash Drawers
 
 **What is currently not supported but might be supported be very soon**
 
 STAR Printers
+
 Linux
+
 Older Windows Versions/32 bit
+
 Electronic Scales
+
 More printer drivers (Windows serial port, TCP/IP (network))
+
 Enhanced printer output, filters
+
 Text mode (this would result in immensely better print quality), currently Odoo sends an image file to the IoTBox
 
 **What might be supported in the future, if there's enough demand for it**

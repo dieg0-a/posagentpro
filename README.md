@@ -93,7 +93,7 @@ Finally there's a setting for adding a set amount of lines at the end of the pri
 Just set up your server as such, use IP 127.0.0.1 if you're going to run PosAgent PRO from the same computer as the browser (most likely scenario) and use the same port you chose in network settings
 
 ![Odoo POS Configuration 1](/assets/images/odoo1.png)
-![Odoo POS Configuration 2](/assets/images/odoo1.png)
+![Odoo POS Configuration 2](/assets/images/odoo2.png)
 
 
 **Downloads**

@@ -97,6 +97,7 @@ Just set up your server as such, use IP 127.0.0.1 if you're going to run PosAgen
 
 
 **What's new in version 0.2**
+
 Added Gamma Slider to fine tune the print output darkness level. Check it out!
 
 **Downloads**

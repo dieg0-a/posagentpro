@@ -51,9 +51,7 @@ Odoo server addon listed in the Odoo App Store. I do this to support this projec
 
 **Will you make a free/open source version?**
 
-Maybe, if you help me by buying enough copies of my Module :)
-Meanwhile you can take advantage of the convenience of direct-printing and other IoTBox features for a price that beats the
-official solution and other competing approaches.
+Yes if there's enough demand for it.
 
 **What can I do in demo mode**
 

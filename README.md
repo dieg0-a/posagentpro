@@ -1,4 +1,9 @@
 # POS Agent PRO
+
+This page is deprecated, refer to the [Project Website](https://dieg0-a.github.io/posagent-home/).
+
+
+
 ## Motivation
 
 If you came to this site it's probably because you're aware of the excellent POS (Point of Sale) interface featured

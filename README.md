@@ -1,4 +1,7 @@
 # POS Agent PRO
+
+This page is deprecated, refer to the [Project Website](https://dieg0-a.github.io/posagent-home/).
+
 ## Motivation
 
 If you came to this site it's probably because you're aware of the excellent POS (Point of Sale) interface featured
@@ -51,9 +54,7 @@ Odoo server addon listed in the Odoo App Store. I do this to support this projec
 
 **Will you make a free/open source version?**
 
-Maybe, if you help me by buying enough copies of my Module :)
-Meanwhile you can take advantage of the convenience of direct-printing and other IoTBox features for a price that beats the
-official solution and other competing approaches.
+Yes if there's enough demand for it.
 
 **What can I do in demo mode**
 
@@ -95,6 +96,10 @@ Just set up your server as such, use IP 127.0.0.1 if you're going to run PosAgen
 ![Odoo POS Configuration 1](/assets/images/odoo1.png)
 ![Odoo POS Configuration 2](/assets/images/odoo2.png)
 
+
+**What's new in version 0.2**
+
+Added Gamma Slider to fine tune the print output darkness level. Check it out!
 
 **Downloads**
 
